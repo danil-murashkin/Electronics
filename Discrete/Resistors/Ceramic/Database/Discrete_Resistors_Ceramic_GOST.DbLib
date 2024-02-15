@@ -1,0 +1,51 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\danil\Desktop\Drive\Storage\Electronics\Discrete\Resistors\Ceramic\Database\Resistors_Ceramic.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel
+LibraryDatabasePath=Resistors_Ceramic.xls
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Resistors Ceramic$
+[Table1]
+SchemaName=
+TableName=Resistors Ceramic$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Item ID0=82|Description0=82|Library Ref0=81|Library Path0=220|Footprint Ref0=92|Footprint Path0=232|Footprint Ref 20=101|Footprint Path 20=232|Footprint Ref 30=101|Footprint Path 30=232|Manufacturer0=93|Part name0=74|Package0=65|Resistance0=77|Tolerance0=73|Power0=55|Temperature coefficient0=145|Operating temperature Min0=165|Operating temperature Max0=166|Mounting type0=100|Dimension0=97|Height0=58|Technology0=83|System0=58|Group0=56|Component0=84|Category0=69
+[FieldMap1]
+Options=FieldName=Resistors Ceramic$.Item ID|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Item ID|FieldType=0|ParameterName=Item ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Resistors Ceramic$.Description|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Resistors Ceramic$.Library Ref|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Resistors Ceramic$.Library Path|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Resistors Ceramic$.Footprint Ref|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Resistors Ceramic$.Footprint Path|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Resistors Ceramic$.Footprint Ref 2|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Resistors Ceramic$.Footprint Path 2|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=Resistors Ceramic$.Footprint Ref 3|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=Resistors Ceramic$.Footprint Path 3|TableNameOnly=Resistors Ceramic$|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0

@@ -1,0 +1,56 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Components\Amplifiers.LibPkg
+[Project2]
+ProjectPath=Components\DCDC.LibPkg
+[Project3]
+ProjectPath=Components\Capacitors Other.LibPkg
+[Project4]
+ProjectPath=Components\Crystals.LibPkg
+[Project5]
+ProjectPath=Components\Diodes.LibPkg
+[Project6]
+ProjectPath=Components\Drivers.LibPkg
+[Project7]
+ProjectPath=Components\Inductors.LibPkg
+[Project8]
+ProjectPath=Components\Displays.LibPkg
+[Project9]
+ProjectPath=Components\Linear.LibPkg
+[Project10]
+ProjectPath=Components\Logic.LibPkg
+[Project11]
+ProjectPath=Components\MCU.LibPkg
+[Project12]
+ProjectPath=Components\Memory.LibPkg
+[Project13]
+ProjectPath=Components\Protection.LibPkg
+[Project14]
+ProjectPath=Components\Sound.LibPkg
+[Project15]
+ProjectPath=Components\Switches.LibPkg
+[Project16]
+ProjectPath=..\Discrete\Capacitors\Ceramic\Altium\Capacitors Ceramic SMD.LibPkg
+[Project17]
+ProjectPath=Templates\Template part\Template part.LibPkg
+[Project18]
+ProjectPath=..\Interfaces\Interfaces\Interface Controllers.LibPkg
+[Project19]
+ProjectPath=..\Wireless\Mobile\2G\SIM8xx\Altium\RF Modules.LibPkg
+[Project20]
+ProjectPath=..\Wireless\UHF\Antennas\RF Antennas.LibPkg
+[Project21]
+ProjectPath=..\Wireless\Mobile\2G\SIM8xx\Altium\RF SoC.LibPkg
+[Project22]
+ProjectPath=..\Discrete\Resistors\Ceramic\Altium\Resistors Ceramic SMD.LibPkg
+[Project23]
+ProjectPath=..\Mechanical\Hardware\Altium\Hardware.LibPkg
+[Project24]
+ProjectPath=..\Discrete\Transistors\BJT\Altium\Transistors BJT.LibPkg
+[Project25]
+ProjectPath=..\Discrete\Transistors\FET\Altium\Transistors FET.LibPkg
+[Project26]
+ProjectPath=..\Interfaces\Altium\Interfaces.LibPkg
+[Project27]
+ProjectPath=Components\Sensors.LibPkg

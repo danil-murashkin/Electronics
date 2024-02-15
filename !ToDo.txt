@@ -1,0 +1,1415 @@
+Perco to archive
+
+
+Make structure for Readme
+
+
+
+ICONS to Font Electronics library normal and meme
+====================================================================
+YUI
+Angry ant
+Moving parts - https://www.shutterstock.com/search/warning-moving-parts
+
+
+
+Make packages 
+====================================================================
+!!! SMT Surface Mount Technology footprint references
+https://www.cnblogs.com/shangdawei/p/3291251.html
+
+IPC Compliant Footprint
+https://www.altium.com/documentation/altium-designer/footprintwizard-dlg-form-footprintwizardipc-compliant-footprint-wizard-ad?version=22
+
+Size Chart - Footprint Selection chart
+https://www.topline.tv/SizeChart.html
+
+Surface Mount (SMD) Packaging
+https://www.diodes.com/assets/Packaging-Support-Docs/ap02007.pdf
+
+Marking Diode Poles on Silkscreen Layer
+https://www.7pcb.com/blog/place-diodes-silk-screen-marks
+
+
+
+Отечественные буквенные обозначения электронных комплектующих
+====================================================================
+
+Регламентированы  ГОСТ 2.710-81 «Обозначения буквенно-цифровые в электрических схемах»
+
+A	Устройства
+AA	Регулятор тока
+AB	Приводы исполнительных механизмов
+AC	Устройство АВР
+AF	Регулятор частоты
+AK	Устройство (комплект) реле защит
+AKB	Устройство блокировки типа КРБ
+AKS	Устройство АПВ
+AKV	Устройство комплектное продольной дифзащиты ЛЭП
+AKZ	Устройство комплектное реле сопротивления
+AR	Устройство комплектное реле УРОВ
+AV	Устройство регулирования напряжения 
+AW	Регулятор мощности
+B	Преобразователи неэлектрических величин в электрические (кроме генераторов и источников питания) или наоборот аналоговые или многоразрядные преобразователи или датчики для указания или измерения
+BA	Громкоговоритель 
+BB	Магнитострикционный элемент 
+BC	Сельсин-датчик
+BD	Детектор ионизирующих излучений 
+BE	Сельсин-приемник
+BF	Телефон (капсюль) 
+BK	Тепловой датчик
+BL	Фотоэлемент 
+BM	Микрофон
+BP	Датчик давления 
+BQ	Пьезоэлемент
+BR	Датчик частоты вращения (тахогенератор) 
+BS	Звукосниматель 
+BT	Датчик температуры
+BV	Датчик скорости
+BVA	Счетчик вольтамперчасов реактивных
+BW	Счетчик ватт-часов активных
+C	Конденсаторы
+CB	Конденсаторный силовой блок
+CG	Конденсаторный зарядный блок
+D	Схемы интегральные, микросборки
+DA	Схема интегральная аналоговая 
+DD	Схема интегральная, цифровая, логический элемент 
+DS	Устройства хранения информации 
+DT	Устройство задержки 
+E	Элементы разные
+EK	Нагревательный элемент 
+EL	Лампа осветительная 
+ET	Пиропатрон 
+F	Разрядники, предохранители, устройства защитные
+FA	Дискретный элемент защиты по току мгновенного действия 
+FP	Дискретный элемент защиты по току инерционного действия 
+FU	Предохранитель плавкий
+FV	Дискретный элемент защиты по напряжению, разрядник
+G	Генераторы, источники питания, кварцевые осцилляторы
+GB	Батарея 
+GC	Синхронный компенсатор
+GE	Возбудитель генератора
+GEA	Подвозбудитель (вспомогательный возбудитель)
+H	Устройства индикационные и сигнальные
+HA	Прибор звуковой сигнализации
+HG	Индикатор символьный 
+HL	Прибор световой сигнализации
+HLA	Световое табло
+HLG	Лампа сигнализации с линзой зеленой
+HLR	Лампа сигнализации с линзой красной
+HLW	Лампа сигнализации с линзой белой
+HY	Индикатор полупроводниковый
+K	Реле, контакторы, пускатели
+KA	Реле токовое
+KA0	Реле тока нулевой последовательности, токовая защита нулевой последовательности
+KAT	Реле тока с насыщающимся трансформатором, токовая защита с выдержкой времени
+KAW	Реле тока с торможением
+KAZ	Реле тока фильтровое
+KB	Реле блокировки
+KBS	Реле блокировки от многократных включений
+KCC	Реле команды «включить»
+KCT	Реле команды «отключить»
+KF	Реле частоты
+KH	Реле указательное
+KHA	Реле импульсной сигнализации
+KK	Реле электротепловое 
+KLP	Реле давления повторительное
+KM	Контактор, магнитный пускатель 
+KQ	Реле фиксации положения выключателя
+KQC	Реле положения «Включено»
+KQQ	Реле фиксации команды включения
+KQS	Реле фиксации положения разъединителя
+KQT	Реле положения «Отключено»
+KS	Реле контроля
+KSG	Реле газовое
+KSH	Реле струи (напора)
+KSS	Реле контроля синхронизма
+KSV	Реле контроля напряжения
+KT	Реле времени
+KV	Реле напряжения 
+KVZ	Фильтр – реле напряжения
+KW	Реле мощности
+KZ	Реле сопротивления
+L	Катушки индуктивности, дроссели
+LG	Реактор
+LL	Дроссель люминесцентного освещения
+LR	Обмотка возбуждения генератора
+M	Двигатели
+P	Приборы, измерительное оборудование
+PA	Амперметр
+PC	Счетчик импульсов электромеханический
+PF	Частотомер 
+PG	Осциллограф
+PHE	Указатель положения
+PI	Счетчик активной энергии
+PK	Счетчик реактивной энергии 
+PR	Омметр
+PS	Регистрирующий прибор 
+PT	Часы, измеритель времени действия 
+PV	Вольтметр
+PVA	Варметр
+PW	Ваттметр
+Q	Выключатели и разъединители в силовых цепях
+QF	Выключатель автоматический 
+QK	Короткозамыкатель 
+QN	Короткозамыкатель
+QR	Отделитель
+QS	Разъединитель
+QW	Выключатель нагрузки
+R	Резисторы
+RK	Терморезистор
+RP	Потенциометр
+RR	Реостат
+RS	Шунт измерительный
+RU	Варистор
+S	Устройства коммутационные в цепях управления, сигнализации и измерительных
+SA	Выключатель или переключатель
+SAB	Переключатель, ключ в цепях блокировки
+SAC	Переключатель режима
+SB	Выключатель кнопочный
+SC	Коммутатор
+SF	Выключатель автоматический 
+SK	Выключатель, срабатывающий от температуры 
+SL	Выключатель, срабатывающий от уровня
+SN	Переключатель измерений
+SP	Выключатель, срабатывающий от давления 
+SQ	Путевой выключатель конечный
+SQ	Выключатель, срабатывающий от положения (путевой) 
+SQA	Вспомогательный контакт, фиксирующий аварийное отключение выключателя
+SQC	Вспомогательный контакт в цепи электромагнита включения
+SQK	Вспомогательный контакт, замыкающийся при отключении выключателя
+SQM	Вспомогательный контакт, замыкающийся при включении выключателя (пуск двигателя завода пружин ABM)
+SQT	Вспомогательный контакт в цепи электромагнита отключения
+SQY	Вспомогательный контакт готовности пружин, управляющий электродвигателем завода пружин ABM
+SR	Выключатель, срабатывающий от частоты вращения
+SS	Переключатель синхронизации
+SX	Накладка оперативная
+T	Трансформаторы, автотрансформаторы
+TA	Трансформатор тока
+TAN	Трансформатор тока нулевой последовательности
+TAV	Трансреактор
+TL	Трансформатор промежуточный
+TLV	Трансформатор отбора напряжения
+TS	Электромагнитный стабилизатор 
+TS	Электромагнитный стабилизатор
+TUV	Трансформатор регулировочный
+TV	Трансформатор напряжения
+U	Преобразователи электрических величин в электрические, устройства связи
+UA	Преобразователь тока
+UB	Модулятор
+UF	Преобразователь частоты
+UI	Дискриминатор
+UR	Демодулятор 
+UV	Преобразователь напряжения, фазорегулятор
+UZ	Преобразователь частотный, инвертор, генератор частоты, выпрямитель 
+V	Приборы электровакуумные, полупроводниковые
+VD	Диод, стабилитрон 
+VL	Прибор электровакуумный
+VS	Тиристор 
+VT	Транзистор 
+W	Линии и элементы сверхвысокой частоты, антенны
+WA	Антенна 
+WE	Ответвитель 
+WK	Короткозамыкатель
+WS	Вентиль
+WT	Трансформатор, неоднородность, фазовращатель 
+WU	Аттенюатор 
+X	Соединения контактные
+XA	Токосъемник, контакт скользящий 
+XB	Перемычка
+XG	Испытательный зажим
+XN	Соединение неразборное
+XP	Штырь 
+XS	Гнездо
+XT	Соединение разборное
+XW	Соединитель высокочастотный 
+Y	Устройства механические с электромагнитным приводом
+YA	Электромагнит 
+YAB	Замок электромагнитной блокировки
+YAC	Электромагнит включения в приводе воздушного выключателя (легкий привод), контактор включения
+YAT	Электромагнит отключения (соленоид отключения)
+YB	Тормоз с электромагнитным приводом 
+YC	Муфта с электромагнитным приводом 
+YH	Электромагнитный патрон или плита 
+YMC	Электромагнит включения в приводе масляного выключателя (тяжелый привод)
+Z	Устройства оконечные, фильтры, ограничители
+ZA	Фильтр тока
+ZF	Фильтр частоты
+ZL	Ограничитель 
+ZQ	Фильтр кварцевый 
+ZV	Фильтр напряжения
+
+
+
+
+
+
+
+
+
+Обозначения
+Зарубежные буквенные позиционные обозначения электронных компонентов
+IEEE 315 ANSI Y32.2-1993
+A	electronic divider
+A	electronic function generator (other than rotating) 
+A	electronic multiplier 
+A	facsimile set
+A	field-polarization amplitude modulator 
+A	field-polarization rotator general circuit element gyroscope integrator
+A	positional servomechanism 
+A	sensor (transducer to electric power) 
+A	separable assembly
+A	separable subassembly 
+A	telephone set 
+A	telephone station 
+A	teleprinter 
+A	teletypewriter 
+AR	amplifier (other than rotating)
+AR	repeater
+AT	bolometer
+AT	capacitive termination
+AT	fixed attenuator
+AT	inductive termination
+AT	isolator (nonreciprocal device)
+AT	pad
+AT	resistive termination
+B	blower
+B	motor
+B	synchro 
+BT	barrier photocell
+BT	battery 
+BT	battery cell 
+BT	blocking layer cell 
+BT	photovoltaic transducer 
+BT	solar cell
+C	capacitor bushing
+C	capacitor 
+CB	circuit breaker 
+CB	network protector
+CP	connector adapter 
+CP	coupling (aperture, loop, or probe) 
+CP	junction (coaxial or waveguide)
+D or CR	asymmetrical varistor
+D or CR	crystal diode 
+D or CR	current regulator (semiconductor device) 
+D or CR	diode (semiconductor type) 
+D or CR	diode rectifier (semiconductor type) 
+D or CR	diode-type ring demodulator 
+D or CR	diode-type ring modulator 
+D or CR	metallic rectifier
+D or CR	photodiode (photosensitive type) 
+D or CR	stabistor 
+D or CR	thyristor (semiconductor diode type) 
+D or CR	varactor
+D or VR	breakdown diode (voltage regulator) 
+D or VR	overvoltage absorber 
+DC	directional coupler
+DL	delay function
+DL	delay line
+DL	slow-wave structure
+DS	alphanumeric display device
+DS	annunciator
+DS	electrically restored drop 
+DS	general light source 
+DS	indicator (excluding meter or thermometer) 
+DS	lamp (excluding heating lamp) 
+DS	light-emitting solid-state device 
+DS	manually restored drop 
+DS	photodiode (photoemissive type) 
+DS	signal light 
+DS	visual alarm 
+DS	visual indicator 
+DS	visual signaling device
+E	aluminum cell
+E	antenna 
+E	armature 
+E	binding post 
+E	cable termination 
+E	carbon block 
+E	circuit terminal 
+E	conductivity cell 
+E	electrical contact 
+E	electrical contact brush 
+E	electrical shield 
+E	electrolytic cell 
+E	ferrite bead rings 
+E	film element
+E	gap (horn, protective, or sphere) 
+E	Hall element 
+E	ignitor gap 
+E	insulator 
+E	lightning arrester 
+E	magnetic core
+E	miscellaneous electrical part 
+E	optical shield 
+E	permanent magnet 
+E	rotary joint (microwave) 
+E	short circuit (termination) 
+E	spark gap 
+E	splice
+E	telephone protector 
+E	telephone protector block 
+E	terminal (individual) 
+E	valve element 
+E	vibrating reed
+EQ	equalizer
+EQ	equalizing network
+F	current limiter (for power cable)
+F	fuse 
+F	fuse cutout
+FL	filter 
+G	electronic chopper 
+G	generator 
+G	ignition magneto 
+G	interrupter vibrator 
+G	oscillator 
+G	rotating amplifier (regulating generator) 
+G	telephone magneto
+H	hardware (common fasteners, etc)
+HP	hydraulic part
+HR	heater 
+HR	heating lamp 
+HR	heating resistor 
+HR	infrared lamp 
+HR	thermomechanical transducer
+HS	handset 
+HS	operator’s set
+HT	earphone
+HT	electrical headset 
+HT	receiver (excluding radio receiver)
+HT	telephone receiver
+HY	circulator
+HY	directionally selective transmission device 
+HY	hybrid circuit network 
+HY	hybrid coil (telephone usage) 
+HY	hybrid junction (magic T)
+J	disconnecting device (receptacle connector) 
+J	electrical receptacle
+J	connector
+J	jack 
+J	receptacle (connector, stationary portion) 
+J	waveguide flange (choke) 
+K	contactor (magnetically operated)
+K	relay 
+L	coil (all not classified as transformers) 
+L	electrical solenoid 
+L	field winding 
+L	generator field 
+L	inductor 
+L	lamp ballast 
+L	motor field 
+L	reactor
+L	winding 
+LS	audible alarm
+LS	audible signaling device 
+LS	buzzer 
+LS	electric bell 
+LS	electric horn 
+LS	loudspeaker 
+LS	loudspeaker-microphone 
+LS	siren 
+LS	telephone ringer 
+LS	telephone sounder 
+LS	underwater sound transducer
+M	clock 
+M	coulomb accumulator 
+M	elapsed time recorder 
+M	electric timer 
+M	electrical counter
+M	electrochemical step-function device 
+M	instrument 
+M	message register 
+M	meter
+M	meter-type level pressure gage 
+M	oscillograph 
+M	oscilloscope 
+M	position indicator 
+M	thermometer
+MG	converter (rotating machine)
+MG	dynamotor 
+MG	inverter (motor-generator) 
+MG	motor-generator 
+MK	hydrophone
+MK	microphone 
+MK	telephone transmitter
+MP	brake
+MP	clutch
+MP	mechanical interlock 
+MP	mechanical part 
+MP	miscellaneous mechanical part (bearing, coupling, gear, shaft)
+MT	accelerometer
+MT	measuring transducer 
+MT	mode transducer 
+MT	motional pickup transducer 
+MT	primary detector
+N	equipment subdivision
+P	disconnecting device (plug connector) 
+P	electrical plug connector 
+P	plug (connector, movable portion) 
+P	waveguide flange (plain) 
+PS	power supply 
+PS	rectifier (complete power-supply assembly)
+PU	head (with various modifiers)
+PU	sound reproducer 
+Q	semiconductor controlled rectifier
+Q	semiconductor controlled switch 
+Q	phototransistor (3 terminal) 
+Q	thyratron (semiconductor device) 
+Q	thyratron (semiconductor triode type) 
+Q	transistor 
+R	function potentiometer
+R	instrument shunt 
+R	magnetoresistor 
+R	potentiometer 
+R	relay shunt 
+R	resistor 
+R	rheostat 
+RE	radio receiver 
+RT	ballast lamp
+RT	ballast tube
+RT	current-regulating resistor 
+RT	resistance lamp 
+RT	temperature-sensing element 
+RT	thermal resistor
+RT	thermistor
+RV	symmetrical varistor
+RV	voltage-sensitive resistor 
+S	contactor (manually, mechanically or thermally operated) 
+S	disconnecting device (switch) 
+S	electrical safety interlock 
+S	flasher (circuit interrupter) 
+S	governor (electrical contact type)
+S	speed regulator (electrical contact type) 
+S	switch 
+S	telegraph key 
+S	telephone dial
+S	thermal cutout (circuit interrupter) (not visual) 
+S	thermostat
+SQ	electric squib 
+SQ	explosive squib 
+SQ	fusible link 
+SQ	igniter squib 
+SQ	sensing link
+SR	electrical contact ring 
+SR	rotating contact 
+SR	slip ring
+T	autotransformer
+T	coaxial taper 
+T	linear coupler 
+T	telephone induction coil
+T	telephone repeating coil 
+T	transformer 
+T	waveguide taper
+TB	connecting strip
+TB	terminal board
+TB	terminal strip 
+TB	test block
+TC	semiconductor thermocouple
+TC	thermocouple 
+TC	thermopile
+TP	test point
+TR	radio transmitter
+U	inseparable assembly
+U	integrated-circuit package
+U	microcircuit
+U	micromodule 
+U	photon-coupled isolator
+V	electron tube 
+V	Geiger-Muller counter tube
+V	ionization chamber
+V	klystron
+V	magnetron
+V	phototube
+V	proportional counter tube
+V	resonator tube (cavity type)
+V	solion
+V	thyratron (electron tube)
+V	traveling-wave tube
+V	voltage regulator (electron tube)
+VR	induction voltage regulator
+VR	voltage regulator (excluding electron tube)
+W	bus bar 
+W	cable
+W	cable assembly (with connectors) 
+W	coaxial cable conductor 
+W	distribution line 
+W	distribution path 
+W	Goubau line
+W	strip-type transmission line 
+W	transmission line 
+W	transmission path 
+W	waveguide
+W	wire 
+WT	wiring tiepoint
+X	fuseholder 
+X	lampholder 
+X	socket 
+Y	magnetostriction oscillator
+Y	piezoelectric crystal unit 
+Y	quartz crystal unit
+Y	tuning-fork resonator 
+Z	artificial line (other than delay line)
+Z	balun
+Z	carrier-line trap
+Z	coupled tunable resonator
+Z	directional phase shifter (non-reciprocal)
+Z	discontinuity (usually coaxial or waveguide transmission use)
+Z	E-H tuner
+Z	general network (where specific class letters do not fit)
+Z	gyrator
+Z	mode suppressor
+Z	multistub tuner
+Z	phase shifter
+Z	phase-changing network 
+Z	resonator (tuned cavity)
+Z	slide-screw tuner
+
+
+
+Зарубежные буквенные обозначения электронных комплектующих
+
+A	Separable assembly or sub-assembly (e.g. printed circuit assembly)	Отдельный модуль или устройство
+AE	Aerial	Антенна
+ANT	Antenna	Антенна
+AR	Amplifier (other than rotating), repeater	Усилитель, повторитель
+AT	Attenuator, inductive termination, resistive termination	Аттенюатор, индуктивная оконечная нагрузка, резистивная оконечная нагрузка
+B	Bead Ferrite	Ферритовый фильтр
+B	Battery	Батарея
+B	Motor	Электродвигатель
+BR	Bridge rectifier	Диодный мост
+BT	Battery	Батарея
+BT	Photovoltaic transducer, solar cell	Фотогальванический преобразователь, солнечная батарея
+C	Capacitor	Конденсатор
+CB	Circuit Board	Монтажная плата
+CB	Circuit breaker 	Автоматический выключатель
+CN	Capacitor network	Конденсаторная сборка
+CP	Connector adapter, junction (coaxial or waveguide)	Переходник, cоединение (коаксиала или волновода)
+CR	Diode (TVS, thyristor, Zener, asymmetrical varistor, photodiode, stabistor, varactor
+overvoltage absorber)	Диод (лавинный диод, тиристор, стабилитрон, варистор с асимметричной ВАХ, фотодиод, стабистор, варактор, поглотитель перенапряжения)
+CRT	Cathode ray tube	Электронно-лучевая трубка
+D	Diode (LED, TVS, thyristor, Zener, asymmetrical varistor, photodiode, stabistor, varactor
+overvoltage absorber)	Диод (светодиод, лавинный диод, тиристор, стабилитрон, варистор с асимметричной ВАХ, фотодиод, стабистор, варактор, поглотитель перенапряжения)
+DC	Directional coupler	Направленный соединитель
+DL	Delay line	Линия задержки
+DS	Display, alphanumeric display device, annunciator, signal lamp	Дисплей, алфавитно-цифровой индикатор, световой индикатор, сигнальная лампа
+DSP	Digital signal processor	Цифровой сигнальный процессор
+E	Electrical contact, antenna, binding post, cable termination, electrical contact brush, electrical shield, ferrite bead rings, hall element, insulator, lightning arrester, magnetic core, permanent magnet, short circuit (termination), telephone protector, vibrating reed, miscellaneous electrical part 	Электрический контакт, электрод, антенна, клемма, кабельный наконечник, электрическая щётка, электрический экран, ферритовое кольцо, элемент на эффекте холла, изолятор, искровой разрядник, магнитный сердечник, постоянный магнит, перемычка, громполоса, вибрирующий пружинный контакт, прочие радиодетали
+EP	Earphone	Головные телефоны
+EQ	Equalizer	Эквалайзер
+F	Fuse	Предохранитель
+FB	Ferrite bead	Ферритовый фильтр
+FD	Fiducial	Точка выравнивания
+FEB	Ferrite bead	Ферритовый фильтр
+FET	Field-effect transistor	Полевой транзистор
+FL	Filter	Фильтр
+G	Generator or oscillator, electronic chopper, interrupter vibrator, rotating amplifier, telephone magneto	Электрогенератор или осциллятор, электронный чоппер, вибропреобразователь, электромашинный усилитель, телефонный индуктор
+GDT	Gas-discharge lamp	Газоразрядная лампа
+GN	General network	Общая сеть
+H	Hardware, e.g., screws, nuts, washers	Крепёжные элементы (винты, гайки, шайбы)
+HP	Hydraulic part	Деталь гидравлики
+HR	Heater, heating lamp, heating resistor, infrared lamp, thermomechanical transducer	Нагревательный элемент, нагревательная лампа, нагревательный резистор, инфракрасная лампа, термомеханический преобразователь
+HS	Handset, operator’s set	Телефонная трубка, телефонная гарнитура
+HT	Earphone	Головной телефон, наушники
+HY	Circulator or directional coupler	Циркулятор или направленный ответвитель
+I	Lamp	Лампа накаливания
+IC	Integrated Circuit	Микросхема, интегральная схема
+J	Jack, Receptacle, Terminal Strip, connector	Гнездо, розетка, патрон, клеммник, коннектор
+J	Wire link, jumper	Джампер
+J	Jumper chip	Резистор нулевого сопротивления (перемычка или SMD-предохранитель)
+JFET	Junction gate field-effect transistor	Однопереходный полевой транзистор
+JP	Jumper (Link)	Джампер
+K	Relay, contactor	Реле, контактор, электромагнитный пускатель
+L	Inductor, choke, electrical solenoid, field winding, generator field, lamp ballast, motor field, reactor	Катушка индуктивности, дроссель, соленоид, обмотка электромагнита, обмотка возбуждения генератора, индуктивный балласт, обмотка возбуждения электродвигателя, реактивная катушка
+LA	Lightning arrester	Молниезащита
+LCD	Liquid-crystal display	ЖК-дисплей
+LDR	Light Dependent Resistor,	Фоторезистор
+LED	Light-emitting diode	Светодиод
+LS	Loudspeaker or buzzer, audible alarm, electric bell, electric horn, siren, telephone ringer, telephone sounder	Громкоговоритель или зуммер, звуковая сигнализация, электрический колокол, ревун, сирена, телефонный звонок, телефонный капсюль
+M	Motor	Электродвигатель
+M	Meter, electric timer, electrical counter, oscilloscope, position indicator, thermometer	Измеритель (обобщённый), электрический таймер, электрический счётчик, осциллограф, датчик положения, термометр
+MCB	Miniature circuit breaker	Миниатюрный автоматический выключатель
+MG	Dynamotor, motor-generator 	Динамотор, моторгенератор
+MIC	Microphone	Микрофон
+MK	Microphone	Микрофон
+MOSFET	Metal-oxide-semiconductor field-effect transistor	МОП-транзистор
+MOV	Metal oxide varistor	Варистор на базе оксида металла
+MP	Mechanical part (including screws and fasteners)	Механическая деталь (в том числе крепёж)
+MT	Accelerometer	Акселерометр
+N	Neon Lamp	Неоновая лампа
+NE	Neon Lamp	Неоновая лампа
+OP	Operational amplifier	Операционный усилитель
+P	Plug	Штекер, штепсельная вилка
+PC	Photocell	Фотоэлемент
+PCB	Printed circuit board	Печатная плата
+PH	Earphone	Головные телефоны
+PLC	Programmable logic controller	Программируемый логический контроллер
+PS	Power supply, кectifier (complete power-supply assembly)	Вторичный источник электропитания, выпрямитель тока
+PU	Pickup, head	Звукосниматель, передающая телевизионная трубка, магнитная головка
+Q	Transistor, semiconductor controlled rectifier, semiconductor controlled switch, phototransistor (3 terminal), thyratron (semiconductor device)	Транзистор, полупроводниковый преобразователь, полупроводниковый ключ, фототранзистор трёхконтактный, тиратрон полупроводниковый
+R	Resistor, function potentiometer, instrument shunt, magnetoresistor, potentiometer, relay shunt, rheostat	Резистор, функциональный потенциометр, измерительный шунт, магниторезистор, потенциометр, шунт обмотки реле, реостат
+RE	Radio receiver	Радиоприёмное устройство
+RFC	Radio frequency choke	Высокочастотный дроссель
+RJ	Resistor Joint	Резисторная сборка
+RLA	Relay	Реле
+RN	Resistor Network	Резисторная сборка
+RT	Thermistor, ballast lamp, ballast tube, current-regulating resistor, thermal resistor	Терморезистор, термистор, электровакуумный стабилизатор тока, газоразрядный стабилитрон, токорегулирующий резистор, терморезистор
+RV	Varistor, symmetrical varistor, voltage-sensitive resistor	Варистор, варистор с симметричной вах, резистор управляемый напряжением
+RY	Relay	Реле
+S	Switch, contactor (manually, mechanically or thermally operated), flasher (circuit interrupter), governor (electrical contact type), telegraph key, telephone dial, thermal cutout (circuit interrupter) (not visual), thermostat	Переключатель, выключатель, кнопка, пускатель (ручной, механический, термический), прерыватель цепи, регулятор контактного типа, телеграфный ключ, номеронабиратель, термовыключатель, тепловое реле
+SCR	Silicon controlled rectifier	Однонаправленный управляемый тиристор
+SPK	Speaker	Громкоговоритель
+SQ	Electric squib 	Электровоспламенитель
+SR	Rotating contact, slip ring	Вращающийся контакт, контактное кольцо
+SUS	Silicon unilateral switch	Пороговый тринистор
+SW	Switch	Переключатель, выключатель, кнопка
+T	Transformer	Трансформатор
+TB	Connecting strip, test block	Клеммная колодка, тест-блок
+TC	Thermocouple	Термопара
+TFT	Thin-film-transistor display	TFT-дисплей
+TH	Thermistor	Терморезистор, термистор
+TP	Test point	Контрольная (измерительная) точка
+TR	Transistor	Транзистор
+TR	Radio transmitter	Радиопередатчик
+TUN	Tuner	Тюнер
+U	Integrated Circuit	Микросхема, интегральная схема
+U	Photon-coupled isolator	Оптопара
+V	Vacuum tube, valve, ionization chamber, klystron, magnetron, phototube, resonator tube (cavity type), solion, thyratron (electron tube), traveling-wave tube, voltage regulator (electron tube)	Радиолампа, ионизационная камера, клистрон, магнетрон, вакуумный фотоэлемент, полостной вакуумный резонатор, хемотронный датчик, тиратрон (радиолампа), лампа бегущей волны, регулятор напряжения (радиолампа)
+VC	Variable capacitor	Переменный конденсатор
+VDR	Voltage Dependent Resistor	Варистор; резистор, управляемый напряжением
+VFD	Vacuum fluorescent display	Вакуумно-люминесцентный индикатор
+VLSI	Very-large-scale integration	СБИС — сверхбольшая интегральная схема 
+VR	Variable resistor (potentiometer or rheostat)	Переменный резистор (потенциометр или реостат)
+VR	Voltage regulator	Регулятор (стабилизатор) напряжения
+VT	Voltage transformer	Трансформатор напряжения
+W	Wire, bus bar, cable, waveguide	Провод, шина, кабель, волновод
+WT	Wiring tiepoint	Точка примыкания
+X	Solar cell	Солнечный элемент
+X	Other converters	Преобразователи, не включаемые в другие категории
+X	Ceramic resonator	Керамический резонатор, кварцевый генератор
+X_	Socket connector for another item	Разъём для элементов. Вторая буква соответствует подключаемому элементу
+XA	Socket connector for printed circuit assembly connector	Разъём для печатных плат
+XDS	Socket connector for light socket	Разъём для патрона
+XF	Socket connector for fuse holder	Разъём для предохранителя
+XL	Lampholder 	Ламповый патрон
+XMER	Transformer	Трасформатор
+XTAL	Crystal	Кварцевый генератор
+XU	Socket connector for integrated circuit connector	Разъём для микросхемы
+XV	Socket connector for vacuum tube socket	Разъём для радиолампы
+Y	Crystal or oscillator	Кварцевый резонатор или осциллятор
+Z	Zener diode	Стабилитрон
+Z	Balun, coupled tunable resonator, directional phase shifter (non-reciprocal), gyrator, mode suppressor, multistub tuner, phase shifter, resonator (tuned cavity)	Симметрирующий трансформатор, связанный перестраиваемый резонатор, направленный фазовращатель (не обратный), гиратор, фильтр нежелательных типов волн, многошлейфовый согласователь, фазовращатель, объёмный резонатор
+ZD	Zener Diode	Стабилитрон
+ZSCT	Zero sequence current transformer, also called a window-type current transformer	Трансформатор тока нулевой последовательности, трансформатор тока с проёмом для первичной цепи
+
+
+
+
+
+Resistors
+
+Resistors Chip SM metric
+http://www.resistorguide.com/resistor-sizes-and-packages/
+	0201
+	03015
+	0402
+	0603
+	1005
+	1608
+	2012
+	3216
+	3225
+	4532
+	5025
+	6332
+
+Resistors Chip SM Wide metric
+http://www.resistorguide.com/resistor-sizes-and-packages/
+	0816
+	1220
+	1632
+	2037
+	2075
+	2550
+	3245
+	3264
+	5176
+
+Resistors Chip Array SM metric
+
+
+Resistors TH 
+http://www.resistorguide.com/resistor-sizes-and-packages/
+	3020
+	6525
+	9035
+	1150
+	1555
+	1765
+
+
+
+Resistor TH
+	RUS C2-23-2
+	RES-025W RES-025L
+	RES_2W RES-2W
+	RES_1W RES_1W
+
+Resistor SM	
+	RES_1206 1206
+	RES_1W RES_2512
+	RES_0805G1_2 0805G1
+	RES_0805G1_3 0805G1
+	RES_0805G1_4 0805G1
+	RES_0805G1 0805G1
+	RES_1206 RES_1206
+	RES_2512 RES_2512
+	RES_0805 0805
+	RES_2512 0805
+
+Resistor Variable
+	CA6V
+	RES_EVND 5*5 RES_EVND 5*5	 
+
+
+
+
+Capacitors
+================================================================================
+Capacitors Ceramic multilayer
+		http://www.topline.tv/ChipCap.html
+		0201
+		03015
+		0402
+		0603
+		1005
+		1608
+		2012
+		3216
+		3225
+		4532
+		4563
+		5664
+
+		0510
+		0816
+		1220
+		1632
+
+
+Capacitors Tantalum - http://www.topline.tv/ChipTantalum.html
+		- https://www.tti.com/content/dam/ttiinc/manufacturers/avx/Featured-Products/Polymer/PDF/tcj.pdf
+	EIA Size
+		A	3216-18
+		B	3528-21
+		C	6032-28
+		D	7343-31
+		E 	7343-43
+		G 	3216-15
+		H 	3528-15
+		J	1608-09
+		K 	3216-10
+		N 	2012-10
+		P 	2012-15
+		R	2012-12
+		S 	3216-12
+		T 	3528-12
+		V 	7361-38
+		W 	6032-15
+		X 	7343-15
+		Y 	7343-20
+	COTS 
+		A	2512-13
+		B	3812-13
+		C	5012-13
+		D	3825-13
+		E	5025-13
+		F	5634-18
+		G	6728-28
+		H	7338-28
+
+
+	Electrolytic SM  - https://industrial.panasonic.com/ww/products/capacitors/aluminum-capacitors/aluminum-cap-smd
+		A
+		B
+		C
+		D
+		D8
+		E
+		F
+		G
+		G13
+		G17
+		H13
+		H16
+		J16
+		J21
+		K16
+		K21
+		+Vibration Resistance
+
+	Electrolytic TH http://www.cde.com/resources/catalogs/300-301.pdf
+		EG
+		EK
+		EM
+		EN	
+		ER
+		FK
+		FF
+		FQ
+		FV
+		LQ
+		LV
+		GE
+		GJ
+		GL
+		GP
+		GS
+		GT
+		HE
+		HJ
+		HP
+		HS
+		HT
+		JE
+		JJ
+		HL
+		JP
+		JS
+		JT
+
+	Electrolytic TH http://www.kemet.com/Lists/ProductCatalog/Attachments/282/KEM_A4005_ESH.pdf
+		C3
+		E3
+		G3
+		G4
+		G8
+		H9
+		H2
+		H8
+		H4
+		L3
+		L4
+		M7
+		M2
+		M3
+		N5
+		N8
+		N1
+		N1
+		N3
+		N7		
+
+
+Capacitors Aluminium https://industrial.panasonic.com/ww/products/pt/aluminum-cap-smd
+	https://eu.mouser.com/new/panasonic/panasonicEEHZAcaps/
+	Dump components by sizes for Electrolitic capacitors Type A, Type C ...
+	Size Diam Heigh A,B
+	A 30 54 33
+	B 40 54 43
+	C 50 54 53
+	D 63 54 66
+	D8 63 77 66
+	E 80 62 83
+	F 80 102 83
+	G 100 102 103
+	TECAP-A TECAP-A
+	TECAP-C C-TAN_С
+	TECAP_D TYPE_D
+	TECAP_D_G_1 CAP_TECAP_D_G
+	TECAP_D_G_2 CAP_TECAP_D_G
+	RUS К50-35
+	RUS K5035A01 K5035A01
+	RUS K5035A03 K5035A03
+	RUS K5035A06 K5035A06
+
+
+
+
+Capacitors Ceramic
+	CAP_1206 1206
+	NXP_X2
+
+Capacitors Tantalum
+	C-TAN-1UF C-TAN-1UF
+	..
+	
+
+
+
+Inductivity
+================================================================================
+
+
+
+
+
+Crystals
+================================================================================
+
+Crystals
+	HC-49SM RK_SMT
+	HC-49U HC-49/U(MD)
+	HC-495M RK-SMT
+	HC-49U HC-49U
+	Time OSC_32
+	OSC_16M OSC-DIP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ADC
+	AD7740_SOT23 SOT23-8
+
+Amplifier
+	INA114AP DIP8_S	
+	..
+
+Backlight
+	L_PED L_PED	
+	..
+
+Battery
+	3V Li-ion Cell
+	LION LION_S
+
+Buffers
+	74HC125A SOIC-14
+	74LVC125A SOIC-14
+
+Buttons
+	SWT-2 SWT-2 Маленькая
+	..
+
+Buzzer
+	HPM14AX HPM14AX	
+	..
+
+
+Connectors JULIET:
+	http://www.higoconnector.com/products/z209bm-p-00-a0-1000/K999K#title
+	http://www.higoconnector.com/products/download/4kpp5/z209bm-p-00-a0-1000.pdf
+
+	1. black - GND
+	2. yellow - interface 1-wire 3.3V
+	3. blue - VCC 32В до 42В
+	4. red - VDD 5v, enabled from display
+
+Connectors AC
+	CN_3PIN_AC CN_3PIN
+	DJK02BG DJK02B
+	..
+
+Connectors DSub
+	DRB-9FA
+	DRB-9F
+	DRB-9MA	
+	DB9F
+	DB9M
+
+Connectors Interface
+	USBB-1JA USBB-1J
+	..
+
+Connectors Power
+	DJK02BG DJK02B
+	THP-4M
+	THP-4MR
+	..
+
+Connectors Rectandular CN
+	 - GSC7 http://www.gosun-tech.com/Connector-Wire-to-board-connector-GSC7.htm
+		CN_3PIN CN_3PIN
+		CN_PWL2-F CN_PWL2
+		CN_PWL2 CN_PWL2
+
+Connectors Rectandular IDC
+	IDC - http://www.gosun-tech.com/Box-Header.htm		
+		IDC-10MA
+		IDC-20M 
+		IDC-16MA 
+
+Connectors Rectandular MIcroFit
+	MF - Micro_fit
+		MF-2-F MF-2
+		MF-2R MF-2
+		MF-4MR MF-4X
+		MF-20RB MF-20RB
+		CNT4-F MF-4
+		MF-2-F MF-2
+		MF-2R MF-2
+		MF-4MR MF-4X
+		MF-4MR MF-4X
+		MF-16MA MF-16MA
+	MF - Mini-Fit https://www.molex.com/molex/products/family?key=minifit_power_connector_solutions&channel=products&chanName=family&pageTitle=Introduction&parentKey=power_connectors
+	MF3
+		MF3-02MRA MF3-02MRA
+		MF3-02MRA MF-2
+		MF3-04MRA MF3-04MRA
+
+Connectors Rectandular MPW
+	 (5.08)  - GSC9-5.08 http://www.gosun-tech.com/Connector-Wire-to-board-connector-GSC9.htm
+		MPW-6
+		MPW-2 MPW-2
+
+Connectors Rectandular PWL
+	 (CH3.96) - GSC9-3.96 http://www.gosun-tech.com/Connector-Wire-to-board-connector-GSC9.htm
+		PWL-2 PWL-2 3.96mm
+
+Connectors Rectandular PWM
+	 https://www.amazon.in/Computer-Fan-Y-Splitter-Connector-Splitter/dp/B079DQ5NZB
+
+Connectors Rectandular WF
+	WF - GSC6 http://www.gosun-tech.com/Connector-Wire-to-board-connector-GSC6.htm
+		http://www.gosun-tech.com/Connector-Wire-to-board-connector-GSC7.htm
+		WF-5
+		WF-5A
+
+!Connectors Rectangular !2.00
+
+!Connectors Rectangular !2.50
+
+
+Connectors Terminal
+		Connectors Terminal Barrier Blocks
+		Connectors Terminal Plugs
+		Connectors Terminal Headers
+		Connectors Terminal Wire to Board 
+			TWB - Terminal Wire to Board - http://www.gosun-tech.com/Wireprotector-Terminal.htm		
+			X - pitch pin len
+			N - pins count (NRN - rows count), M,F - male female, V,H,A45 - vertical, horizontal, angle 45
+				TWB-5.08-2PV   
+				TWB-5.08-2PH
+				TWB-5.08-3PV
+				TWB-5.08-2PA45
+
+	Terminal block
+	Screwless Terminal
+
+
+Connectors Rectandular	
+	PL(S,D,xR) standart (and 10P mirror) - headers http://www.gosun-tech.com/Pin-header.htm
+		PLD-2
+		PLS-4 
+		PLS 3-Pin Connector:SI PLS 3-Pin 
+		PLD-4A PL-4M
+		PLS-5A PLSD-5
+
+	PB(S,D,xR) standart (and 10P mirror) - headers http://www.gosun-tech.com/Pin-header.htm  
+		PBD10
+
+	WF - 
+		WF-5
+		WF-5A
+
+	HU - 
+		http://www.palyoo.com/product_e.asp?classtype=Connector%20Series&smallclass=Wafer%20Connector#
+
+	TB - terminal block http://www.gosun-tech.com/Wireprotector-Terminal.htm
+		TB-012	
+		TB-013	
+
+	PWL (CH3.96) - GSC9-3.96 http://www.gosun-tech.com/Connector-Wire-to-board-connector-GSC9.htm
+		PWL-2 PWL-2 3.96mm
+
+	MPW (5.08)  - GSC9-5.08 http://www.gosun-tech.com/Connector-Wire-to-board-connector-GSC9.htm
+		MPW-6
+		MPW-2 MPW-2
+
+	XH - GSC6 http://www.gosun-tech.com/Connector-Wire-to-board-connector-GSC6.htm
+		
+	CN - GSC7 http://www.gosun-tech.com/Connector-Wire-to-board-connector-GSC7.htm
+		CN_3PIN CN_3PIN
+		CN_PWL2-F CN_PWL2
+		CN_PWL2 CN_PWL2
+
+	IDC - http://www.gosun-tech.com/Box-Header.htm
+		IDC-10MA
+		IDC-20M 
+		IDC-16MA 
+
+	MF - Mini-Fit https://www.molex.com/molex/products/family?key=minifit_power_connector_solutions&channel=products&chanName=family&pageTitle=Introduction&parentKey=power_connectors
+		MF-2-F MF-2
+		MF-2R MF-2
+		MF-4MR MF-4X
+		MF-20RB MF-20RB
+		CNT4-F MF-4
+		MF3-02MRA MF3-02MRA
+		MF3-02MRA MF-2
+		MF3-04MRA MF3-04MRA
+		MF-2-F MF-2
+		MF-2R MF-2
+		MF-4MR MF-4X
+		MF-4MR MF-4X
+		MF-16MA MF-16MA
+
+
+Digital
+	SOIC8 SO8
+	SOIC16 SOIC16
+
+Diodes Bridges
+	DF10S DFS
+	VD_RS407 RS-407	
+
+Diodes Rectifier
+	SOD80 SOD80
+	DO-213AB 
+	1N4XXX DO214AС(SMA)
+	1N4XXX DO-41
+	1N5822 DO-27
+	1N40xx DO214AС (SMA)	
+	SMA SMA22
+
+Diodes Signal switching 
+	BAV99 SOT-23
+	..
+
+Diodes Fast Switching 
+	BAS16 SOT-23
+	BAS81 SOD80_Secondary(Inches)
+	VD_MUR160 DO-41_Primary	
+	VD_LL4148 SOD80_Primary
+	MUR160 DO-41_Primary
+
+Diodes Schottky
+	MBRS360T3 SMC
+	MBRS340 DO-214AB
+	DO214AA DO214AA
+	SOD80 SOD80
+	SMA SMA22
+	MBRS0520L SOD-123
+	
+Diodes TVS
+	TVS_UN SMAJ_CA
+	TVS_BI SMAJ_CA
+	VD_PKE DO-15_P6KE
+	P6KE DO-15_P6KE
+	SMBJ15CA DO214AA
+	ESDA6V1W5 SOT-323-5	
+
+Diodes Zener
+	BZX84Cxxx
+	..
+
+Display Segmental
+	DF700543D ind DF700543D ind	
+	..
+
+Fuses
+	Fuse F_S1053	
+	..
+
+Inductor Power
+	CDRH2D18 CDRH2D18
+	CDRH104R CDRH104R
+	CECL CDRH2D18
+	CECL CECL
+	CECL_1 CDRH2D18
+	CECL_1 CECL
+	CECL_1 CECL	
+	CDRH104R
+	VTP-01002 CDRH2D18
+	VTP-01002 VTP-01002 http://www.premiermag.com/pdf/vtp.pdf
+	RCH-101 RCH-INDUCT  (47uH Cilinder TH) 
+	RH complit RH complit (22uH SM)
+
+Inductor
+	BLM21P 0805G1
+	..
+
+Interfaces RS232
+	MAX232_R SOIC-16
+	MAX3222CWN SOIC18
+	MAX3223IDB SSOP20
+	MAX3232ESE SOIC16
+	MAX3232ESE SSOP20
+	
+Interfaces	RS485
+	AD485 SO8 no-isolated
+	ADM2483 SOIC16W isolated
+
+Interfaces	CAN
+	MCP2551 DIP8_S
+	..
+
+Interfaces Ethernet Modules
+	iL-SM2144NH-I ICHIP_LAN ICHIP-LAN https://eu.mouser.com/ProductDetail/Connect-One/iL-SM2144NH-I?qs=fLSHF8TigmV4MTt5kNhQGA%3D%3D
+	..
+
+Interfaces RFID
+	MFRC523
+	..
+
+Inventer
+	74HC04A SOIC-14
+	..
+
+Leds
+	HL0805 VD0805
+	AL307 LED307
+	LED 3mm 0805G1LED
+	LED 3mm LED 3mm
+	LED0603 LED0603
+	LED0805 0805G1LED
+	LED0805 0805 LED
+
+Level Translators
+	TXB0104PW TXB0104
+	..
+
+MCU
+	STM32L451xxx LQFP64_L
+	STM32L451xxx LQFP64_M
+	STM32L451xxx LQFP64_N
+	PIC16F87X(DIP28) DIP28SMALL
+	PIC10F22X_DIP DIP8_S
+	PIC12F5XX DIP8_S
+	PIC18FXX8 DIP28_S
+	PIC16FXX20 TQFP64
+	PIC18FXX2(TQFP) TQFP44
+
+Memory
+	EEPROM
+		AT24C512 SOIC-8
+
+Mux Demux
+	CD4051 SOIC16 Analog Multiplexer and demux
+	CD4052 SOIC16
+	74HC151 SOIC16 Digital 8-input multiplexer
+	74HC151D SOIC16
+
+OA
+	LM358A SO8	
+	TS951ILT SOT-23-5
+	RUS	KR1401UD2BA DIP14
+
+Optocoupler
+	KPC357NT
+	4N35_SM OPTO_SM
+	H11L1_SM OPTO_SM
+	PC357N 4-pin Mini-flat
+
+Power supply DC-DC Converter
+	AM1S-050SZ SIP4  http://www.aimtec.com/site/Aimtec/files/Datasheet/HighResolution/AM1S-Z.pdf
+	TSM0505S TSM_S
+	TSM_D TSM_D
+	SBT01L-05 SBT013
+	RS25XX DB9_SM
+
+Protect
+	C3LG60Y Gas Discharge Tubes
+	..
+
+Relays
+	BS-115C
+	G6M1A5DC
+	G5L	
+	G2R-1A G2R-1A	
+
+Sensors Hall
+	MLX90316
+	..
+
+Sensors Real-Time
+	DS1302_SM SOIC-8
+	..
+
+Sensors Temperature
+	DS18B20 TO-92
+	JNR10S050M JNR10S050M
+
+Transformers 
+	POL15020 E28/11 Core
+	PMCU0330 PMCU0330
+
+Transistor FET P
+	..
+	..
+
+Transistor FET N
+	..
+	..
+
+Transistor MOSFET P
+	IRLML6402 SOT-23
+	IRFL9014 SOT-223
+
+Transistor MOSFET N
+	IRLL2705 SOT-223	
+	IRFL4105 SOT-223
+	
+Transistor BJT NPN
+	SOT23-NPN SOT-23
+	BC847 SOT-23
+	MMBT2222A SOT-23
+
+Transistor BJT PNP
+	SOT23-PNP SOT-23
+	BC857 SOT-23
+	RUS КТ3107 TO-92
+
+Varistor
+	ERZV10
+	..
+
+Voltage Reference	
+	TL431 SOT-23_Primary
+	TL431 SOT-89-3L	
+
+Voltage regulator Linear
+	LM7800 TO220
+	MC7805BDTRKG DPAK
+	LM317 TO-220-3
+
+Voltage regulator Swithcer
+	LM2576 TO-220-5
+	TPS560200 SOT-23-5
+	TPS5430 SOIC8
+	TPS5430 SOT-23-5
+	LM2596S LM2596S	
+	ICL7660 SOIC8
+
+Voltage AC-DC PWM
+	TOP226 TO-220-3
+	..
+
+Wireless modules
+	TELITE TELIT -Delete
+	SIM900
+	SIM7100C
+
+?Not need
+	MCU-8722 8722	https://www.terraelectronica.ru/product/296759
+	..
+
+?Other
+	CX16D09 CX16D09 mb pin
+	CX20D11 CX20D11 mb pin
+
+
+
+
+
+BOOKS
+====================================================================
+
+https://habr.com/ru/articles/429560/
+https://habr.com/ru/articles/495784/
+https://habr.com/ru/articles/416495/
+
+
+https://cxem.net/beginner/beginner102.php
+https://cxem.net/izmer/izmer135.php
+https://easyelectronics.ru/galvanicheskaya-razvyazka-analogovogo-signala.html

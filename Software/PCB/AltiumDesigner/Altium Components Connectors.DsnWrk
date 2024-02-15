@@ -1,0 +1,18 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\Mechanical\Connectors\Terminal\Altium\Connectors Terminal.LibPkg
+[Project2]
+ProjectPath=..\Mechanical\Connectors\Spring\Altium\Connectors Spring.LibPkg
+[Project3]
+ProjectPath=..\Mechanical\Connectors\Rectangular\Altium\Connectors Rectangular.LibPkg
+[Project4]
+ProjectPath=..\Mechanical\Connectors\Jumper\Altium\Connectors Jumper.LibPkg
+[Project5]
+ProjectPath=..\Mechanical\Connectors\Interface\Altium\Connectors Interface.LibPkg
+[Project6]
+ProjectPath=..\Mechanical\Connectors\Debug\Altium\Connectors Debug.LibPkg
+[Project7]
+ProjectPath=..\Mechanical\Connectors\Atum-el\Altium\Connectors Atum-el.LibPkg
+[Project8]
+ProjectPath=..\Mechanical\Connectors\Power\Altium\Connectors Power.LibPkg
