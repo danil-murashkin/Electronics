@@ -1,0 +1,13 @@
+#Altium Design
+*.Annotation
+*.Dat
+*.SchDocPreview
+*.PcbDoc.htm
+*.log
+*Report*
+MZ_*
+__Previews/
+History/
+
+#Autodesk Inventor
+OldVertions/
