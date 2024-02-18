@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NYUAVPUA
 
 [Document2]
-DocumentPath=..\..\..\..\Discrete\Resistors\Ceramic\Database\Discrete_Resistors_Ceramic_GOST.DbLib
+DocumentPath=..\..\..\..\Communication\Interfaces\RS485\Database\Communication_Interfaces_RS485_GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document3]
-DocumentPath=..\..\..\..\Digital\Converters\DAC\Database\Digital_Converters_DAC_GOST.DbLib
+DocumentPath=..\..\..\..\Discrete\Resistors\Ceramic\Database\Discrete_Resistors_Ceramic_GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\..\Digital\MCU\STM32\Database\Digital_MCU_STM32_F4_GOST.DbLib
+DocumentPath=..\..\..\..\Digital\Converters\DAC\Database\Digital_Converters_DAC_GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Database\Power_Amplifiers_Audio_GOST.DbLib
+DocumentPath=..\..\..\..\Digital\MCU\STM32\Database\Digital_MCU_STM32_F4_GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\..\Discrete\Capacitors\Ceramic\Database\Discrete_Capacitors_Ceramic_GOST.DbLib
+DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Database\Power_Amplifiers_Audio_GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -151,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\..\..\..\Wireless\WiFi\ESP32\Database\Wireless_WiFi_ESP32_GOST.DbLib
+DocumentPath=..\..\..\..\Discrete\Capacitors\Ceramic\Database\Discrete_Capacitors_Ceramic_GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -168,6 +168,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
+DocumentPath=..\..\..\..\Wireless\WiFi\ESP32\Database\Wireless_WiFi_ESP32_GOST.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document9]
 DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Footprints\Power_Amplifiers_Audio_GOST.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,7 +201,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVPIYJUG
 
-[Document9]
+[Document10]
 DocumentPath=..\..\..\..\Digital\Converters\DAC\Footprints\Digital_Converters_DAC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -201,7 +218,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPRUNOCI
 
-[Document10]
+[Document11]
+DocumentPath=..\..\..\..\Communication\Interfaces\RS485\Footprints\Communication_Interfaces_RS485.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KPGYSXAW
+
+[Document12]
 DocumentPath=..\..\..\..\Discrete\Resistors\Ceramic\Footprints\Discrete_Resistors_Ceramic_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -218,7 +252,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIIZAEES
 
-[Document11]
+[Document13]
 DocumentPath=..\..\..\..\Discrete\Capacitors\Ceramic\Symbols\Discrete_Capacitors_Ceramic_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -235,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAJXSIWJ
 
-[Document12]
+[Document14]
 DocumentPath=..\..\..\..\Digital\MCU\STM32\Symbols\Digital_MCU_STM32_F4_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +286,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTGRTFOC
 
-[Document13]
+[Document15]
 DocumentPath=..\..\..\..\Wireless\WiFi\ESP32\Footprints\Wireless_WiFi_ESP32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,7 +303,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWSPOZRL
 
-[Document14]
+[Document16]
+DocumentPath=..\..\..\..\..\Workspace\224_AB_SAM_module\Boards\sam_module_r2_brd\SAM_module.Components.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGACUBMT
+
+[Document17]
 DocumentPath=..\..\..\..\Digital\MCU\STM32\Footprints\Digital_MCU_STM32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -286,7 +337,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELOPPNCH
 
-[Document15]
+[Document18]
+DocumentPath=..\..\..\..\..\Workspace\224_AB_SAM_module\Boards\sam_module_r2_brd\SAM_module.Components.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QUUJREBX
+
+[Document19]
 DocumentPath=..\..\..\..\Discrete\Resistors\Ceramic\Symbols\Discrete_Resistors_Ceramic_SMD_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,7 +371,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HHBSBAQD
 
-[Document16]
+[Document20]
 DocumentPath=..\..\..\..\Wireless\WiFi\ESP32\Symbols\Wireless_WiFi_ESP32_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -320,7 +388,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSFNXTHD
 
-[Document17]
+[Document21]
 DocumentPath=..\..\..\..\Digital\Converters\DAC\Symbols\Digital_Converters_DAC_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -337,7 +405,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSFNXTHC
 
-[Document18]
+[Document22]
+DocumentPath=..\..\..\..\Communication\Interfaces\RS485\Symbols\Communication_Interfaces_RS485_GOST.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MTPCPYYJ
+
+[Document23]
 DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Symbols\Power_Amplifiers_Audio_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -353,108 +438,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJXGVPON
-
-[Document19]
-DocumentPath=..\..\..\..\Digital\Converters\DAC\Database\Digital_Converters_DAC_GOST.xls
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=..\..\..\..\Digital\MCU\STM32\Database\Digital_MCU_STM32_F4_GOST.xls
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
-DocumentPath=..\..\..\..\Discrete\Capacitors\Ceramic\Database\Discrete_Capacitors_Ceramic_GOST.xls
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document22]
-DocumentPath=..\..\..\..\Discrete\Resistors\Ceramic\Database\Discrete_Resistors_Ceramic_GOST.xls
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document23]
-DocumentPath=..\..\..\..\Wireless\WiFi\ESP32\Database\Wireless_WiFi_ESP32_GOST.xls
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document24]
-DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Database\Power_Amplifiers_Audio_GOST.xls
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
