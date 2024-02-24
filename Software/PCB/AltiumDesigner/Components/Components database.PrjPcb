@@ -270,7 +270,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Footprints\Power_Amplifiers_Audio_GOST.PcbLib
+DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Footprints\Power_Amplifiers_Audio_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -287,7 +287,24 @@ GenerateClassCluster=0
 DocumentUniqueId=NVPIYJUG
 
 [Document15]
-DocumentPath=..\..\..\..\Communication\Interfaces\RS232\Footprints\Communication_Interfaces_RS232.PcbLib
+DocumentPath=..\..\..\..\Discrete\Oscillators\Crystal\Database\Discrete_Oscillators_Cristal_GOST.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=..\..\..\..\Communication\Interfaces\RS232\Footprints\Communication_Interfaces_RS232_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -303,8 +320,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XXHPTXQM
 
-[Document16]
-DocumentPath=..\..\..\..\Digital\Converters\DAC\Footprints\Digital_Converters_DAC.PcbLib
+[Document17]
+DocumentPath=..\..\..\..\Digital\Converters\DAC\Footprints\Digital_Converters_DAC_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -320,8 +337,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPRUNOCI
 
-[Document17]
-DocumentPath=..\..\..\..\Power\DCDC\StepDown\Footprints\Power_DCDC_StepDown_Converters.PcbLib
+[Document18]
+DocumentPath=..\..\..\..\Power\DCDC\StepDown\Footprints\Power_DCDC_StepDown_Converters_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -337,8 +354,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPQEIYID
 
-[Document18]
-DocumentPath=..\..\..\..\Digital\Memory\Flash\Footprints\Digital_Memory_Flash_NOR.PcbLib
+[Document19]
+DocumentPath=..\..\..\..\Digital\Memory\Flash\Footprints\Digital_Memory_Flash_NOR_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -354,8 +371,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LECNULWR
 
-[Document19]
-DocumentPath=..\..\..\..\Communication\Interfaces\RS485\Footprints\Communication_Interfaces_RS485.PcbLib
+[Document20]
+DocumentPath=..\..\..\..\Communication\Interfaces\RS485\Footprints\Communication_Interfaces_RS485_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -371,8 +388,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPGYSXAW
 
-[Document20]
-DocumentPath=..\..\..\..\Power\DCDC\StepDown\Footprints\Power_DCDC_StepDown_Controllers.PcbLib
+[Document21]
+DocumentPath=..\..\..\..\Power\DCDC\StepDown\Footprints\Power_DCDC_StepDown_Controllers_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -388,7 +405,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FDDPEGYA
 
-[Document21]
+[Document22]
 DocumentPath=..\..\..\..\Discrete\Resistors\Ceramic\Footprints\Discrete_Resistors_Ceramic_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +422,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIIZAEES
 
-[Document22]
+[Document23]
+DocumentPath=..\..\..\..\Discrete\Diodes\TVS\Database\Discrete_Diodes_TVS_CAN_GOST.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
 DocumentPath=..\..\..\..\Communication\Interfaces\RS232\Symbols\Communication_Interfaces_RS232_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -422,7 +456,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IGBSEXXB
 
-[Document23]
+[Document25]
+DocumentPath=..\..\..\..\Discrete\Diodes\TVS\Database\Discrete_Diodes_TVS_RS485_GOST.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document26]
+DocumentPath=..\..\..\..\Discrete\Diodes\TVS\Symbols\Discrete_Diodes_TVS_GOST.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVXACYAM
+
+[Document27]
 DocumentPath=..\..\..\..\Discrete\Capacitors\Ceramic\Symbols\Discrete_Capacitors_Ceramic_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -439,7 +507,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WAJXSIWJ
 
-[Document24]
+[Document28]
 DocumentPath=..\..\..\..\Communication\Interfaces\CAN\Symbols\Communication_Interfaces_CAN_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,7 +524,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MNHBWFWG
 
-[Document25]
+[Document29]
 DocumentPath=..\..\..\..\Digital\MCU\STM32\Symbols\Digital_MCU_STM32_F4_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -473,8 +541,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTGRTFOC
 
-[Document26]
-DocumentPath=..\..\..\..\Wireless\WiFi\ESP32\Footprints\Wireless_WiFi_ESP32.PcbLib
+[Document30]
+DocumentPath=..\..\..\..\Wireless\WiFi\ESP32\Footprints\Wireless_WiFi_ESP32_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -490,7 +558,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YWSPOZRL
 
-[Document27]
+[Document31]
+DocumentPath=..\..\..\..\Discrete\Diodes\TVS\Database\Discrete_Diodes_TVS_Bidirectional_GOST.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document32]
 DocumentPath=..\..\..\..\..\Workspace\224_AB_SAM_module\Boards\sam_module_r2_brd\SAM_module.Components.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -507,8 +592,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGACUBMT
 
-[Document28]
-DocumentPath=..\..\..\..\Communication\Interfaces\CAN\Footprints\Communication_Interfaces_CAN.PcbLib
+[Document33]
+DocumentPath=..\..\..\..\Communication\Interfaces\CAN\Footprints\Communication_Interfaces_CAN_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -524,8 +609,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJESCPMR
 
-[Document29]
-DocumentPath=..\..\..\..\Digital\MCU\STM32\Footprints\Digital_MCU_STM32.PcbLib
+[Document34]
+DocumentPath=..\..\..\..\Digital\MCU\STM32\Footprints\Digital_MCU_STM32_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -541,7 +626,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELOPPNCH
 
-[Document30]
+[Document35]
 DocumentPath=..\..\..\..\..\Workspace\224_AB_SAM_module\Boards\sam_module_r2_brd\SAM_module.Components.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,7 +643,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QUUJREBX
 
-[Document31]
+[Document36]
 DocumentPath=..\..\..\..\Digital\Memory\Flash\Symbols\Digital_Memory_Flash_NOR_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -575,7 +660,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XCGDWXMC
 
-[Document32]
+[Document37]
 DocumentPath=..\..\..\..\Power\DCDC\StepDown\Symbols\Power_DCDC_StepDown_Controllers_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -592,7 +677,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UFJMTYXC
 
-[Document33]
+[Document38]
 DocumentPath=..\..\..\..\Discrete\Resistors\Ceramic\Symbols\Discrete_Resistors_Ceramic_SMD_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -609,7 +694,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HHBSBAQD
 
-[Document34]
+[Document39]
 DocumentPath=..\..\..\..\Wireless\WiFi\ESP32\Symbols\Wireless_WiFi_ESP32_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -626,7 +711,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSFNXTHD
 
-[Document35]
+[Document40]
 DocumentPath=..\..\..\..\Digital\Converters\DAC\Symbols\Digital_Converters_DAC_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -643,7 +728,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSFNXTHC
 
-[Document36]
+[Document41]
 DocumentPath=..\..\..\..\Communication\Interfaces\RS485\Symbols\Communication_Interfaces_RS485_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -660,7 +745,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MTPCPYYJ
 
-[Document37]
+[Document42]
+DocumentPath=..\..\..\..\Discrete\Diodes\TVS\Footprints\Discrete_Diodes_TVS_SMD.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MFMASTQG
+
+[Document43]
+DocumentPath=..\..\..\..\Discrete\Oscillators\Crystal\Footprints\Discrete_Oscillators_Cristal_SMD.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WVSYHXVW
+
+[Document44]
 DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Symbols\Power_Amplifiers_Audio_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -677,7 +796,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJXGVPON
 
-[Document38]
+[Document45]
 DocumentPath=..\..\..\..\Power\DCDC\StepDown\Symbols\Power_DCDC_StepDown_Converters_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -693,6 +812,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHWUAMMQ
+
+[Document46]
+DocumentPath=..\..\..\..\Discrete\Oscillators\Crystal\Symbols\Discrete_Oscillators_Cristal_GOST.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=USGZWRYU
 
 [Configuration1]
 Name=Sources
@@ -814,6 +950,16 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
+OutputType22=SIMetrixNetlist
+OutputName22=SIMetrix
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+OutputType23=SIMPLISNetlist
+OutputName23=SIMPLIS
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -825,6 +971,16 @@ OutputName1=Mixed Sim
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+OutputType2=SIMetrixSimulation
+OutputName2=SIMetrix
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=SIMPLISSimulation
+OutputName3=SIMPLIS
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs

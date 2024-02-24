@@ -1,19 +1,19 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\danil\Desktop\Drive\Electronics\Discrete\Diodes\TVS\Database\Discrete_Diodes_TVS_Bidirectional_GOST.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\danil\Desktop\Drive\Electronics\Discrete\Oscillators\Crystal\Database\Discrete_Oscillators_Cristal_GOST.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=C:\Users\danil\Desktop\Drive\Electronics\Discrete\Diodes\TVS\Database\Discrete_Diodes_TVS_Bidirectional_GOST.xls
-DatabasePathRelative=0
+LibraryDatabasePath=Discrete_Oscillators_Cristal_GOST.xls
+DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=
 OrcadMultiValueDelimiter=,
@@ -26,9 +26,6 @@ TableName=List$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Item ID0=120|Description0=282|Library Ref0=203|Library Path0=455|Footprint Ref0=171|Footprint Path0=407|Manufacturer0=358|Part name0=142|Package0=124|Polarity0=133|Channels0=131|Reverse standoff voltage0=284|Breakdown voltage0=231|Clamping voltage0=214|Power peak pulse0=215|Current peak pulse0=227|Operating temperature Min0=312|Operating temperature Max0=316|Mounting type0=187|Dimension0=194|Height0=109|System0=114|Group0=105|Component0=159|Category0=133|Part page0=778|Datasheet0=806|Reference manual0=1614|Supplier 10=142|Supplier Part Number 10=272|Supplier 20=142|Supplier Part Number 20=272|Supplier 30=142|Supplier Part Number 30=272
 [FieldMap1]
 Options=FieldName=List$.Item ID|TableNameOnly=List$|FieldNameOnly=Item ID|FieldType=0|ParameterName=Item ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
