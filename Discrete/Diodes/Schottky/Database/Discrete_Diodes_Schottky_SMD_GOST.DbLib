@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\danil\Desktop\Drive\Electronics\Software\PCB\AltiumDesigner\Components\Component template\Database\Component_Template_GOST.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\danil\Desktop\Drive\Electronics\Discrete\Diodes\Schottky\Database\Discrete_Diodes_Schottky_SMD_GOST.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
@@ -12,7 +12,7 @@ QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=Component_Template_GOST.xls
+LibraryDatabasePath=Discrete_Diodes_Schottky_SMD_GOST.xls
 DatabasePathRelative=1
 TopPanelCollapsed=0
 LibrarySearchPath=
