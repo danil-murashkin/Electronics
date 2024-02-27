@@ -5,7 +5,7 @@ ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\danil\De
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
@@ -26,9 +26,6 @@ TableName=List$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Item ID0=157|Description0=328|Library Ref0=250|Library Path0=455|Footprint Ref0=171|Footprint Path0=407|Manufacturer0=174|Part name0=157|Package0=124|Polarity0=133|Channels0=131|Reverse standoff voltage0=284|Breakdown voltage0=231|Clamping voltage0=214|Power peak pulse0=215|Current peak pulse0=227|Operating temperature Min0=312|Operating temperature Max0=316|Mounting type0=187|Dimension0=194|Height0=109|System0=114|Group0=105|Component0=159|Category0=133|Part page0=137|Datasheet0=875|Reference manual0=218|Supplier 10=142|Supplier Part Number 10=272|Supplier 20=142|Supplier Part Number 20=272|Supplier 30=142|Supplier Part Number 30=272
 [FieldMap1]
 Options=FieldName=List$.Item ID|TableNameOnly=List$|FieldNameOnly=Item ID|FieldType=0|ParameterName=Item ID|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
