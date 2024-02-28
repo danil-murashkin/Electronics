@@ -1,7 +1,9 @@
 Make structure for Readme
 
 Add value data to parameters
-
+Add Value code for cap and res and ind
+Ω???
+Cap and res datasheet and Component URL
 
 ICONS to Font Electronics library normal and meme
 ====================================================================
