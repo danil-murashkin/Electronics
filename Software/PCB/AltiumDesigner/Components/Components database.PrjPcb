@@ -1324,6 +1324,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document76]
+DocumentPath=..\..\..\..\Mechanical\Hardware\Heatsink\Database\Mechanical_Hardware_Heatsink_GOST.DbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document77]
 DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Symbols\Power_Amplifiers_Audio_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1340,7 +1357,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EJXGVPON
 
-[Document77]
+[Document78]
 DocumentPath=..\..\..\..\Power\Protection\Fuses\Symbols\Power_Protection_Fuses_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1357,7 +1374,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGHHZDLN
 
-[Document78]
+[Document79]
 DocumentPath=..\..\..\..\Power\Amplifiers\Audio\Footprints\Power_Amplifiers_Audio_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1374,7 +1391,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NVPIYJUG
 
-[Document79]
+[Document80]
 DocumentPath=..\..\..\..\Power\Protection\Fuses\Footprints\Power_Protection_Fuses_Ceramic_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1391,7 +1408,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IUAYEGJD
 
-[Document80]
+[Document81]
 DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Footprints\Mechanical_Connectors_Terminal_Pluggable_3.81_Board_TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1408,7 +1425,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SQPXKUJZ
 
-[Document81]
+[Document82]
 DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Footprints\Mechanical_Connectors_Terminal_Pluggable_5.08_Board_TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1425,7 +1442,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FHLWWQBI
 
-[Document82]
+[Document83]
+DocumentPath=..\..\..\..\Mechanical\Hardware\Heatsink\Footprints\Mechanical_Hardware_Heatsink.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AMBXYLIS
+
+[Document84]
 DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Symbols\Mechanical_Connectors_Terminal_Pluggable_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1441,6 +1475,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YBCQQDWD
+
+[Document85]
+DocumentPath=..\..\..\..\Mechanical\Hardware\Heatsink\Symbols\Mechanical_Hardware_Heatsink_GOST.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZTEHMQGR
 
 [Configuration1]
 Name=Sources
