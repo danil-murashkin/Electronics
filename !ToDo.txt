@@ -1,38 +1,17 @@
-Make structure for Readme
-
+Fix "Canels" TPA3116D2DADR
+Dimenshion in oscill BQ1
+Voltage rating vs ?Voltage rated(ZF3)
+Lifetime/Temp -> Lifetime (CAPE)
+Description to norm style
 Add value data to parameters
 Add Value code for cap and res and ind
 Ω???
 Cap and res datasheet and Component URL
 
-ICONS to Font Electronics library normal and meme
-====================================================================
-YUI
-Angry ant
-Moving parts - https://www.shutterstock.com/search/warning-moving-parts
 
 
 
-Make packages 
-====================================================================
-!!! SMT Surface Mount Technology footprint references
-https://www.cnblogs.com/shangdawei/p/3291251.html
-
-IPC Compliant Footprint
-https://www.altium.com/documentation/altium-designer/footprintwizard-dlg-form-footprintwizardipc-compliant-footprint-wizard-ad?version=22
-
-Size Chart - Footprint Selection chart
-https://www.topline.tv/SizeChart.html
-
-Surface Mount (SMD) Packaging
-https://www.diodes.com/assets/Packaging-Support-Docs/ap02007.pdf
-
-Marking Diode Poles on Silkscreen Layer
-https://www.7pcb.com/blog/place-diodes-silk-screen-marks
-
-
-
-Отечественные буквенные обозначения электронных комплектующих
+Symbols for all categories
 ====================================================================
 
 Регламентированы  ГОСТ 2.710-81 «Обозначения буквенно-цифровые в электрических схемах»
@@ -238,13 +217,48 @@ Z	Устройства оконечные, фильтры, ограничите�
 	ZL	Ограничитель 
 	ZQ	Фильтр кварцевый 
 	ZV	Фильтр напряжения
++ Корпуса
+
+
+Instruction
+====================================================================
+Describe library structure in Readme
+Rules for adding libs
 
 
 
 
+ICONS to Font Electronics library normal and meme
+====================================================================
+YUI
+Angry ant
+Moving parts - https://www.shutterstock.com/search/warning-moving-parts
 
 
 
+
+Template project
+====================================================================
+
+
+
+
+Make packages 
+====================================================================
+!!! SMT Surface Mount Technology footprint references
+https://www.cnblogs.com/shangdawei/p/3291251.html
+
+IPC Compliant Footprint
+https://www.altium.com/documentation/altium-designer/footprintwizard-dlg-form-footprintwizardipc-compliant-footprint-wizard-ad?version=22
+
+Size Chart - Footprint Selection chart
+https://www.topline.tv/SizeChart.html
+
+Surface Mount (SMD) Packaging
+https://www.diodes.com/assets/Packaging-Support-Docs/ap02007.pdf
+
+Marking Diode Poles on Silkscreen Layer
+https://www.7pcb.com/blog/place-diodes-silk-screen-marks
 
 
 
