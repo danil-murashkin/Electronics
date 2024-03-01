@@ -1,13 +1,11 @@
-!Templates AD
-Fix "Canels" TPA3116D2DADR
-Voltage rating vs ?Voltage rated(ZF3)
-Lifetime/Temp -> Lifetime (CAPE)
 Description to norm style
 Add value data to parameters
 Add Value code for cap and res and ind
 Ω???
 Cap and res datasheet and Component URL
 
+
+!Templates AD
 
 
 
