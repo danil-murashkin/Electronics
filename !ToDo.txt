@@ -1,5 +1,5 @@
+!Templates AD
 Fix "Canels" TPA3116D2DADR
-Dimenshion in oscill BQ1
 Voltage rating vs ?Voltage rated(ZF3)
 Lifetime/Temp -> Lifetime (CAPE)
 Description to norm style
