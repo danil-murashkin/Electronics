@@ -1,11 +1,9 @@
-Description to norm style
-Add value data to parameters
+Resistors R value symbol set
+Add Value data to parameters =Resistance, = cApasistence and ...
 Add Value code for cap and res and ind
-Ω???
 Cap and res datasheet and Component URL
-
-
-!Templates AD
+Description to norm style
+Wire Tie and other hardware for PCB
 
 
 
@@ -237,7 +235,7 @@ Moving parts - https://www.shutterstock.com/search/warning-moving-parts
 
 Template project
 ====================================================================
-
+.DwsDot GOST templates
 
 
 
