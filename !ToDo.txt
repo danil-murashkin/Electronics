@@ -1,9 +1,9 @@
-Resistors R value symbol set
-Add Value data to parameters =Resistance, = cApasistence and ...
-Add Value code for cap and res and ind
+Current
+====================================================================
+Terminals Spring
 Cap and res datasheet and Component URL
-Description to norm style
 Wire Tie and other hardware for PCB
+
 
 
 
