@@ -1290,7 +1290,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document74]
-DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Database\Mechanical_Connectors_Terminal_Pluggable_3.81_GOST.DbLib
+DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Database\Mechanical_Connectors_Terminal_Pluggable_Screw_3.81_GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1307,7 +1307,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document75]
-DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Database\Mechanical_Connectors_Terminal_Pluggable_5.08_GOST.DbLib
+DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Database\Mechanical_Connectors_Terminal_Pluggable_Screw_5.08_GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1426,7 +1426,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FWTKQQXU
 
 [Document82]
-DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Footprints\Mechanical_Connectors_Terminal_Pluggable_3.81_Board_TH.PcbLib
+DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Footprints\Mechanical_Connectors_Terminal_Pluggable_Screw_3.81_Board_TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1443,7 +1443,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SQPXKUJZ
 
 [Document83]
-DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Footprints\Mechanical_Connectors_Terminal_Pluggable_5.08_Board_TH.PcbLib
+DocumentPath=..\..\..\..\Mechanical\Connectors\Terminal\Footprints\Mechanical_Connectors_Terminal_Pluggable_Screw_5.08_Board_TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
