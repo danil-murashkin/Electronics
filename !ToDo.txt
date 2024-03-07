@@ -1,6 +1,5 @@
 Current
 ====================================================================
-Terminals Spring
 Cap and res datasheet and Component URL
 Wire Tie and other hardware for PCB
 

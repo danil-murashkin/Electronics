@@ -474,7 +474,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
-DocumentPath=..\..\..\..\Digital\MCU\STM32\Database\Digital_MCU_STM32_F4_SMD_GOST.DbLib
+DocumentPath=..\..\..\..\Digital\Microcontrollers\STM32\Database\Digital_Microcontrollers_STM32_F4_SMD_GOST.DbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -763,7 +763,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FJESCPMR
 
 [Document43]
-DocumentPath=..\..\..\..\Digital\MCU\STM32\Footprints\Digital_MCU_STM32_SMD.PcbLib
+DocumentPath=..\..\..\..\Digital\Microcontrollers\STM32\Footprints\Digital_Microcontrollers_STM32_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -777,7 +777,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ELOPPNCH
+DocumentUniqueId=
 
 [Document44]
 DocumentPath=..\..\..\..\Digital\Memory\Flash\Footprints\Digital_Memory_Flash_NOR_SMD.PcbLib
@@ -1171,7 +1171,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WKDAIGLM
 
 [Document67]
-DocumentPath=..\..\..\..\Digital\MCU\STM32\Symbols\Digital_MCU_STM32_F4_GOST.SchLib
+DocumentPath=..\..\..\..\Digital\Microcontrollers\STM32\Symbols\Digital_Microcontrollers_STM32_F4_GOST.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1185,7 +1185,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YTGRTFOC
+DocumentUniqueId=
 
 [Document68]
 DocumentPath=..\..\..\..\Digital\Memory\Flash\Symbols\Digital_Memory_Flash_NOR_GOST.SchLib
