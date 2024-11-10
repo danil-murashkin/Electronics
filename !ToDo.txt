@@ -260,7 +260,8 @@ https://www.7pcb.com/blog/place-diodes-silk-screen-marks
 
 
 Resistors
-
+================================================================================
+Пр. E96 для резисторов
 Resistors Chip SM metric
 http://www.resistorguide.com/resistor-sizes-and-packages/
 	0201
@@ -329,6 +330,7 @@ Resistor Variable
 
 Capacitors
 ================================================================================
+E24/E6 для конденсаторов
 Capacitors Ceramic multilayer
 		http://www.topline.tv/ChipCap.html
 		0201
