@@ -1,0 +1,36 @@
+# Altium Designer
+**/__Previews/
+**/History/
+Project\ Logs*/
+Project\ Outputs*/
+*.PcbDoc.htm
+*.PrjPcbStructure
+*.Harness
+*.Annotation
+
+#Manufacture/
+**/Manufacture/
+*Status Report.Txt
+
+*.BOM.csv
+*.PAP.csv
+*.PeakAndPlace.csv
+*.ASM.PDF
+*.Schematics.PDF
+
+*.zip
+
+**/Gerbers/
+*.DRR
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GKO
+*.GM
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.LDP
+*-Plated.TXT
