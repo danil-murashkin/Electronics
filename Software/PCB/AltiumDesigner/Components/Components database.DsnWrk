@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=Components database.PrjPcb
+[Project2]
+ProjectPath=..\..\..\..\..\Users\danil\My Drive\Worspace\RL_Powerswitch\Board\PS_PDU1C\00.PS_PDU1C.PrjPcb
