@@ -856,6 +856,7 @@ Optocoupler
 	4N35_SM OPTO_SM
 	H11L1_SM OPTO_SM
 	PC357N 4-pin Mini-flat
+	LTV-817S-TA1-C
 
 Power supply DC-DC Converter
 	AM1S-050SZ SIP4  http://www.aimtec.com/site/Aimtec/files/Datasheet/HighResolution/AM1S-Z.pdf
@@ -936,6 +937,7 @@ Voltage regulator Swithcer
 	TPS5430 SOT-23-5
 	LM2596S LM2596S	
 	ICL7660 SOIC8
+	BL8037CS8TR
 
 Voltage AC-DC PWM
 	TOP226 TO-220-3
