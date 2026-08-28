@@ -1,0 +1,2 @@
+olefile>=0.47
+compoundfiles @ git+https://github.com/warlomak/compoundfiles.git
