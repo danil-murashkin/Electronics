@@ -12,4 +12,7 @@ History/
 #Autodesk Inventor
 OldVersions/
 
+# Excel temporary lock files
+~$*
+
 .git_user
