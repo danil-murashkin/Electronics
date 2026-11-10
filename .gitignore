@@ -16,9 +16,10 @@ OldVersions/
 # Excel temporary lock files
 ~$*
 
-# Local helpers / caches (all libraries: Discrete, Digital, Power, …)
+# Local helpers / caches (all libraries; scripts kept under Software/)
 generate_*.py
 fill_*.py
+!Software/**/*.py
 _cache/
 __pycache__/
 
