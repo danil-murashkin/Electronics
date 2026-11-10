@@ -1,4 +1,5 @@
 #Altium Design
+*.$$$
 *.Annotation
 *.Dat
 *.SchDocPreview
@@ -14,5 +15,11 @@ OldVersions/
 
 # Excel temporary lock files
 ~$*
+
+# Local helpers / caches (all libraries: Discrete, Digital, Power, …)
+generate_*.py
+fill_*.py
+_cache/
+__pycache__/
 
 .git-user
