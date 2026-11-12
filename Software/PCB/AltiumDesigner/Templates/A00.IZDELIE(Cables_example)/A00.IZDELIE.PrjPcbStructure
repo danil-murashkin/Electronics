@@ -1,0 +1,15 @@
+Record=TopLevelDocument|FileName=00.Izdelie.Title.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=01.Izdelie.Units.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C101. A41-A73. Module signals.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C102. A41-A73. Module DC power.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C105. A41-A02. Module Gyroscope.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C107. A41-A72. Module DC24V .SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C108. A41-A72. Module AC220V.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C203. A01-A73. Module BASU AC power .SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C205. A01-A11. Module BASU Encoder for Horizontal motor.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C207. A01-A21. Module BASU signals OPK.SchDoc|SheetNumber=19
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C208. A01-A22. Module BASU Optics Horizontal motor .SchDoc|SheetNumber=20
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C210. A01-A24. Module BASU Optics Vertical motor.SchDoc|SheetNumber=22
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C212. A01-A12. Module BASU Turret Horizontal aiming encoder .SchDoc|SheetNumber=24
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C214. A01-A16, A17. Module BASU Stoper VN_HN.SchDoc|SheetNumber=25
+Record=NoMainPathDocument|SourceDocument=00.Izdelie.Title.SchDoc|FileName=02.C216. A01-A31,A32,A33,A34,A35,A36. Module BASU executive mechanisms.SchDoc|SheetNumber=27
